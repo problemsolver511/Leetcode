@@ -1,0 +1,13 @@
+// String Leetcode questions 
+
+1. Longest common prefix
+
+2. Fizz Buzz 
+
+3. Longest Repeating Character Replacement
+
+
+4. Longest Substring Without Repeating Characters
+
+5. Minimum Window Substring  
+
